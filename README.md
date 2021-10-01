@@ -2,8 +2,6 @@
 Discordjs-SlashCommand is a [npm](https://npmjs.com/) library. this library make slash command easer
 
 ## Installation
-[![npm latest version](https://img.shields.io/npm/v/@semantic-release/npm/latest.svg)](https://www.npmjs.com/package/@semantic-release/npm)
-
 ```bash
 npm install discordjs-slashcommands --save
 ```
