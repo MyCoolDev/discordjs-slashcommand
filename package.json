@@ -1,0 +1,26 @@
+{
+  "name": "@MyCoolDev/discordjs-slashcommand",
+  "version": "1.0.0",
+  "description": "Makes slash commands easier",
+  "main": "lib/index.js",
+  "types": "lib",
+  "scripts": {
+    "build": "tsc -p .",
+    "test": "node ./test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyCoolDev/Discord-Slash-Command-Builder.git"
+  },
+  "author": "MyCool",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MyCoolDev/Discord-Slash-Command-Builder/issues"
+  },
+  "homepage": "https://github.com/MyCoolDev/Discord-Slash-Command-Builder#readme",
+  "devDependencies": {
+    "discord.js": "^13.1.0",
+    "fs": "^0.0.1-security",
+    "typescript": "^4.4.3"
+  }
+}
