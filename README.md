@@ -3,21 +3,17 @@ Discordjs-SlashCommand is a [npm](https://npmjs.com/) library. this library make
 
 ## Installation
 ```bash
-npm install discordjs-slashcommands --save
+npm install @mycool/discordjs-slashcommands --save
 ```
 
-### SelectMenu
- * [Basics](#Basics)
- * [ModuleOptions](#Options)
-
-## Basics
+## Usage
 
 ```javascript
 const Discord = require('discord.js');
 const client = new DiscordJS.Client({
     intents: Object.values(Discord.Intents.FLAGS)
 });
-const package = require('../lib/index');
+const package = require('@mycool/discordjs-slashcommands');
 const builder = new package.CommandBuilder(client);
 
 client.once('ready', () => {
