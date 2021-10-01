@@ -1,5 +1,5 @@
 {
-  "name": "@MyCoolDev/discordjs-slashcommand",
+  "name": "@mycool/discordjs-slashcommand",
   "version": "1.0.0",
   "description": "Makes slash commands easier",
   "main": "lib/index.js",
