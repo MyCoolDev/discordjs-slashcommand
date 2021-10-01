@@ -10,7 +10,7 @@ npm install @mycool/discordjs-slashcommands --save
 
 ```javascript
 const Discord = require('discord.js');
-const client = new DiscordJS.Client({
+const client = new Discord.Client({
     intents: Object.values(Discord.Intents.FLAGS)
 });
 const package = require('@mycool/discordjs-slashcommands');
