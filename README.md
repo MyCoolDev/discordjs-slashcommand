@@ -1,5 +1,5 @@
 # Discordjs-SlashCommand
-Discordjs-SlashCommand is a [npm](https://npmjs.com/) library. this library make slash command easer
+Discordjs-SlashCommand is a [npm](https://npmjs.com/) library. this library makes slash command easier
 
 ## Installation
 ```bash
